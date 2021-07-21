@@ -4,6 +4,7 @@ Klasik Trance Müzik dinleyicisi, Trance Müzik türü tarih araştırmacısı
 
 Tiesto, Schiller, ATB, Above&Beyond, Super8&Tab, Robert Miles,Paul Van Dyk, Ferry Corsten, Aly&Fila, Ferry Corsten, BT gibi müzik yapımcılarının hayranı... 
 
+<img src="https://raw.githubusercontent.com/emretasnet/emretasnet/master/images/R-113401-1198089680.jpeg">
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
