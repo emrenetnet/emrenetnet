@@ -1,4 +1,4 @@
-### Hi there 👋
+### Selam, Bendeniz Emre, Emre Taş, Github'a Türkiye'den Katılıyorum...  👋
 
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
