@@ -1,4 +1,6 @@
 ### Selam, Bendeniz Emre, Emre Taş, Github'a Türkiye'den Katılıyorum...  👋
+Klasik Trance Müzik dinleyicisi, Trance Müzik türü tarih araştırmacısı
+Tiesto, Schiller, ATB, Above&Beyond, Super8&Tab, Robert Miles,Paul Van Dyk, Ferry Corsten, Aly&Fila, Ferry Corsten, BT gibi müzik yapımcılarının hayranı... 
 
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
