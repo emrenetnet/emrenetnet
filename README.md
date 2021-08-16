@@ -8,7 +8,7 @@ ALL My Playlist : https://youtube.com/playlist?list=PLOo1NaAVi_wWmkTthpncZwlFpT5
 
 Sensation 2002 - The Anthem : https://youtu.be/AFXzALNZ-vI
 
-<img src="https://raw.githubusercontent.com/emretasnet/emretasnet/master/images/R-113401-1198089680.jpeg.jpg" width="400px">
+<img src="https://raw.githubusercontent.com/emretasnet/emretasnet/master/images/R-113401-1198089680.jpeg.jpg" width="200px">
 
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
