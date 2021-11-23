@@ -7,7 +7,7 @@ Tiesto, Schiller, ATB, Above&Beyond, Super8&Tab, Robert Miles,Paul Van Dyk, Ferr
 ALL My Playlist : https://youtube.com/playlist?list=PLOo1NaAVi_wWmkTthpncZwlFpT5woOtHt
 
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ... Compute Science
 
 
 <!--
