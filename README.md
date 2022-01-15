@@ -1,11 +1,5 @@
 #### Selam, Bendeniz Emre, Emre Taş, Github'a Türkiye'den Katılıyorum...  👋
-
-Tiesto, Schiller, ATB, Above&Beyond, Super8&Tab, Robert Miles,Paul Van Dyk, Ferry Corsten, Aly&Fila, Ferry Corsten, BT and Eryn Martin, Vega gibi müzik yapımcılarının hayranı... 
-ALL My Playlist : https://youtube.com/playlist?list=PLOo1NaAVi_wWmkTthpncZwlFpT5woOtHt
-
 🌱 I’m currently learning ... Computer Science
-
-
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
