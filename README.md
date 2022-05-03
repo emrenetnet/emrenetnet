@@ -1,7 +1,7 @@
 #### Selam, Bendeniz Emre, Emre Taş, Github'a Türkiye'den Katılıyorum...  👋
 🌱 I’m currently learning ... Computer Science
 
-click to my playlists:https://soundcloud.com/emrenetnet
+click to my playlists : https://soundcloud.com/emrenetnet
 <!--
 **emretasnet/emretasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
