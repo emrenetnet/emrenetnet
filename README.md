@@ -1,4 +1,4 @@
-#### Selam, Bendeniz Emre, Emre Taş, Github'a Türkiye'den Katılıyorum...  👋
+#### Selam Bendeniz Emre, Github'a Türkiye'den Katılıyorum...  👋
 🌱 I’m currently learning ... Computer Science
 
 click to my playlists : https://soundcloud.com/emrenetnet
