@@ -1,7 +1,9 @@
-#### training.c
+# training.c
 Exercises with the C programming language 
+
 Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. C Sistem Programcıları Derneği'nin web adresinde bulunan çalışma soruları sayfasındaki problemlerine kendimce uyguladığım çözümleri içermektedir. (https://csystem.org/calisma-sorulari)
 Fonksiyona gönderilen parametrenin değer ile gönderilmesi(callbyValue.c)
+
 Bir sayının faktöryelinin hesaplanması(factorial.c)
 Bir Karakterin ASCII kod karşılığın yazılması(writeAscii.c)
 Bir Karakterin bit değerlerinin ikilik sayı sisteminde yazılması(writeBinaryBit.c)
