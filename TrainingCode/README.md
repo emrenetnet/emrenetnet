@@ -6,7 +6,7 @@
 ‘ Tek tırnak Single quote
 ! Ünlem işareti Exclamation mark
 ^ Şapka işareti Caret
-# Diyez işareti Number sign
+"#" Diyez işareti Number sign
 + Artı işareti Plus
 _ Eksi İşareti Hypen (minus sign)
 $ Dolar işareti Dollar sign
