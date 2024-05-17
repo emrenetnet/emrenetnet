@@ -1,9 +1,6 @@
 # Training Code
-
 ## Programlamada Kullanilan Karakterler
-
 “ Çift tırnak Double quote
-
 ‘ Tek tırnak Single quote
 
 ! Ünlem işareti Exclamation mark
